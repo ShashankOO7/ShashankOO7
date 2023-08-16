@@ -17,6 +17,12 @@
 
 - 📫 How to reach me **ShashankChaurasia7@hotmail.com**
 
+<!-- - 📄 Know about my experiences [resumeLink](resumeLink)-->
+
+<!-- - 👨‍💻 All of my projects are available at [PortFolioLink](https://localhost:8080.com)-->
+
+- ⚡ Fun fact **I like to learn constantly**
+
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
