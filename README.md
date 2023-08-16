@@ -1,11 +1,10 @@
 ![MasterHead](https://cdn-learn.adafruit.com/assets/assets/000/112/622/large1024/programming_GitHub_logo_with_mark.png?1656187481)
 <h1 align="center">Hi 👋, I'm Shashank</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJiOWV0eWE3czhtamYxNm1nNXZicWd2cnh4cTh2b3UzM3Nkc2ltbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankoo7&label=Profile%20views&color=0e75b6&style=flat" alt="shashankoo7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankoo7" alt="shashankoo7" /></a> </p>
 
 - 🔭 I’m currently working on **Course Application**
 
@@ -32,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashankoo7&show_icons=true&locale=en" alt="shashankoo7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashankoo7&" alt="shashankoo7" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankoo7" alt="shashankoo7" /></a> </p>
