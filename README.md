@@ -1,5 +1,4 @@
-![MasterHead]
-(https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
+![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 <!--![MasterHead](https://cdn-learn.adafruit.com/assets/assets/000/112/622/large1024/programming_GitHub_logo_with_mark.png?1656187481)-->
 <h1 align="center">Hi 👋, I'm Shashank</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
